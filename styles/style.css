@@ -222,7 +222,7 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox {
 .content__video-card {
     display: grid;
     grid-template-columns: 200px 1fr;
-    height: 107px;
+
     width: 100%;
     margin-bottom: 30px;
 }
@@ -257,7 +257,6 @@ input[type='checkbox']:checked + .search-form__pseudo-checkbox {
     font-family: 'Fira Sans Condensed', sans-serif;
     font-size: 18px;
     font-weight: 400;
-    height: 65px;
     width: 100%;
     overflow: auto;
 }
